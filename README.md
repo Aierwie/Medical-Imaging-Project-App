@@ -1,4 +1,5 @@
 医学影像app 含有.mlapp
+图片灰色处可以自由发挥
 
 app界面1
 <img width="2148" height="1117" alt="屏幕截图 2026-03-24 150550" src="https://github.com/user-attachments/assets/32486145-12c1-4a9f-b018-0172bc4e2910" />
