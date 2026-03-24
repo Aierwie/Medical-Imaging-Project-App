@@ -1,4 +1,3 @@
-<img width="2148" height="1117" alt="屏幕截图 2026-03-24 150550" src="https://github.com/user-attachments/assets/ad502df0-41f2-4bc2-8619-5b2cf33f9e49" /># Medical-Imaging-Project-App
 医学影像app 含有.mlapp
 
 app界面1
